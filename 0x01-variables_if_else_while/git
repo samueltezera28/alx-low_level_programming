@@ -1,5 +1,0 @@
-#!/bin/bash
-sudo chmod u+x *
-git add .
-git commit -m "this is project 0x01"
-git push
